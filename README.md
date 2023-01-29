@@ -1,4 +1,4 @@
-# Francisco Jiemenez
+# Francisco Jimenez
 ### Software developer and technology content creator
 
 ⤷ Web developer with +3 years of experience in web application development, involved in the entire development life cycle and working with other areas to define and implement effective solutions. I am constantly learning new skills and mentoring other developers.
